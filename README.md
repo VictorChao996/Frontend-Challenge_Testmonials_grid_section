@@ -30,7 +30,7 @@ Users should be able to:
   <img src="./screenshot2.jpg" alt= "mobile device page" width= 350>
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Testmonials Grid Section](https://victorchao996.github.io/Frontend-Challenge_Testmonials_grid_section/)
 
 ---
 ## My process
